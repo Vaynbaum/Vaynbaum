@@ -19,18 +19,23 @@
 ---
 ### Technology stack:
 #### Backend:
-- FastAPI;
+- <b>FastAPI</b>;
 - Express.js (Node.js);
 - ORM SQLAlchemy;
 - Swagger;
 - Celery;
 - OAuth;
-- WebSocket;
+- Microservice architecture;
+- WebSocket.
+---
+#### Neural networks:
+- YOLO.
+---
 #### Frontend:
-- Angular.
+- <b>Angular</b>.
 ---
 #### Databases:
-- PostgreSQL;
+- <b>PostgreSQL</b>;
 - Redis;
 - MongoDB.
 ---
@@ -44,5 +49,5 @@
 - Appium;
 - PyTest;
 - AutoCad;
-- Blender;
+- Blender.
 ---
