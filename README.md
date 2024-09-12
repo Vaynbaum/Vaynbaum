@@ -13,7 +13,7 @@
   <li>C & C++;</li>
   <li>C#.</li>
 </ul>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaynbaum&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Vaynbaum" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaynbaum&show_icons=true&locale=en&layout=compact" alt="Vaynbaum" />
 </div>
 
 ---
